@@ -1,0 +1,13 @@
+C:\Users\Zaker\Source\Repos\ProftaakNieuw\ProftaakSolution\Hoofdform\bin\Debug\Hoofdform.exe.config
+C:\Users\Zaker\Source\Repos\ProftaakNieuw\ProftaakSolution\Hoofdform\bin\Debug\Hoofdform.exe
+C:\Users\Zaker\Source\Repos\ProftaakNieuw\ProftaakSolution\Hoofdform\bin\Debug\Hoofdform.pdb
+C:\Users\Zaker\Source\Repos\ProftaakNieuw\ProftaakSolution\Hoofdform\bin\Debug\MaterialSkin.dll
+C:\Users\Zaker\Source\Repos\ProftaakNieuw\ProftaakSolution\Hoofdform\obj\Debug\Hoofdform.Form1.resources
+C:\Users\Zaker\Source\Repos\ProftaakNieuw\ProftaakSolution\Hoofdform\obj\Debug\Hoofdform.InlogForm.resources
+C:\Users\Zaker\Source\Repos\ProftaakNieuw\ProftaakSolution\Hoofdform\obj\Debug\Hoofdform.Properties.Resources.resources
+C:\Users\Zaker\Source\Repos\ProftaakNieuw\ProftaakSolution\Hoofdform\obj\Debug\Hoofdform.SimuleerSchermcs.resources
+C:\Users\Zaker\Source\Repos\ProftaakNieuw\ProftaakSolution\Hoofdform\obj\Debug\Hoofdform.csproj.GenerateResource.Cache
+C:\Users\Zaker\Source\Repos\ProftaakNieuw\ProftaakSolution\Hoofdform\obj\Debug\Hoofdform.csproj.CoreCompileInputs.cache
+C:\Users\Zaker\Source\Repos\ProftaakNieuw\ProftaakSolution\Hoofdform\obj\Debug\Hoofdform.exe
+C:\Users\Zaker\Source\Repos\ProftaakNieuw\ProftaakSolution\Hoofdform\obj\Debug\Hoofdform.pdb
+C:\Users\Zaker\source\repos\ProftaakNieuw\ProftaakSolution\Hoofdform\obj\Debug\Hoofdform.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+System.Data.SqlClient.SqlException (0x80131904): The parameterized query '(@param1 int,@param2 bit,@param3 nvarchar(1),@param4 nvarchar(1)' expects the parameter '@param6', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Hoofdform.Coupe.CoupeToevoegen() in C:\Users\Zaker\source\repos\ProftaakNieuw\ProftaakSolution\Hoofdform\Coupe.cs:line 62
+ClientConnectionId:5dc9b2dd-ea1e-41ab-bd60-d66a93eaebb4
+Error Number:8178,State:1,Class:16//10-Jan-18 23:59:29
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Hoofdform.ImageConverter.imageToByteArray(Image imageIn) in C:\Users\Zaker\Source\Repos\ProftaakNieuw\ProftaakSolution\Hoofdform\ImageConverter.cs:line 16
+   at Hoofdform.Coupe.CoupeToevoegen() in C:\Users\Zaker\Source\Repos\ProftaakNieuw\ProftaakSolution\Hoofdform\Coupe.cs:line 45
+   at Hoofdform.Form1.btnCoupeToevoegen_Click(Object sender, EventArgs e) in C:\Users\Zaker\Source\Repos\ProftaakNieuw\ProftaakSolution\Hoofdform\Form1.cs:line 220//11-Jan-18 13:56:26
